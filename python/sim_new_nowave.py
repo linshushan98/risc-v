@@ -1,0 +1,40 @@
+import sys
+import filecmp
+import subprocess
+import sys
+import os
+import contextlib
+
+
+# 主函数
+def main():
+    #print(sys.argv[0] + ' ' + sys.argv[1] + ' ' + sys.argv[2])
+
+    # 1.将bin文件转成mem文件
+    cmd = (
+        r'python .\BinToMem_CLI.py'
+        + ' ' + sys.argv[1]
+        + ' ' + r'..\generated\inst_data.txt'
+    )
+    f = os.popen(cmd)
+    f.close()
+
+    # 2.编译rtl文件
+    cmd = r'python .\compile_rtl.py'
+    f = os.popen(cmd)
+    f.close()
+
+    # 3.运行
+    vvp_cmd = [r'vvp']
+    #确认vvp文件的路径
+    vvp_file = os.path.join(r'..\temp', 'out.vvp')
+    vvp_cmd.append(vvp_file)
+    process = subprocess.Popen(vvp_cmd)
+    try:
+        process.wait(timeout=20)
+    except subprocess.TimeoutExpired:
+        print('!!!Fail, vvp exec timeout!!!')
+        
+    
+if __name__ == '__main__':
+    sys.exit(main())

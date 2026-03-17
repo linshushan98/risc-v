@@ -1,0 +1,353 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modelsim_dlx64_10.6c/examples
+vctrl
+Z0 !s110 1773720026
+!i10b 1
+!s100 eA4PgVU0I`idE=PS1KS0_0
+I9lN41;genYRQ;1g?ZN]VU0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/22144/Desktop/20260316temp/sim/modelsim_work
+w1656947501
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/ctrl.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/ctrl.v
+L0 6
+Z3 OP;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1773720026.000000
+!s107 C:\Users\22144\Desktop\FPGA_for_job\risc_V_proj\rtl\defines.v|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/ctrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/ctrl.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vdff
+R0
+!i10b 1
+!s100 ]T_O[LYoSE=eU4EJOUV:02
+IiO;kIY4WM3kb0k_i56GdS0
+R1
+R2
+w1656863333
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/dff.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/dff.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/dff.v|
+!i113 1
+R5
+R6
+vdual_RAM
+R0
+!i10b 1
+!s100 lFXSg6?3dVCX_M2DC2RgO0
+IR19Kn<=05>g?bTOOC37Mi0
+R1
+R2
+w1773715185
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/dual_RAM.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/dual_RAM.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\22144\Desktop\FPGA_for_job\risc_V_proj\rtl\defines.v|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/dual_RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/dual_RAM.v|
+!i113 1
+R5
+R6
+ndual_@r@a@m
+vdual_RAM_opti
+R0
+!i10b 1
+!s100 J^VTLg[F<5VlUcXOeE[L=3
+Ia>Sm^Az_KzZY7h5Q1Ha<S0
+R1
+R2
+w1773717409
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/dual_RAM_opti.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/dual_RAM_opti.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/dual_RAM_opti.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/dual_RAM_opti.v|
+!i113 1
+R5
+R6
+ndual_@r@a@m_opti
+vexe
+R0
+!i10b 1
+!s100 9>:aD<HV9VV`2o>bnW6oT0
+I7G]JTUbSIc;08Cj<>T`]Q3
+R1
+R2
+w1773715735
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/exe.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/exe.v
+L0 11
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\22144\Desktop\FPGA_for_job\risc_V_proj\rtl\defines.v|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/exe.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/exe.v|
+!i113 1
+R5
+R6
+vi_decoder
+R0
+!i10b 1
+!s100 40RNPHGX_:dm@A;D6doS_1
+I=IN0eE3NR2cP`XU76B__62
+R1
+R2
+w1771773423
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_decoder.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_decoder.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\22144\Desktop\FPGA_for_job\risc_V_proj\rtl\defines.v|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_decoder.v|
+!i113 1
+R5
+R6
+vi_decoder_sc
+R0
+!i10b 1
+!s100 RWEL2X1<0=MKjkNL;m3_[3
+IVXGCPYXc7C9MCKlf:mg[Q3
+R1
+R2
+w1657425097
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_decoder_sc.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_decoder_sc.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\22144\Desktop\FPGA_for_job\risc_V_proj\rtl\defines.v|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_decoder_sc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_decoder_sc.v|
+!i113 1
+R5
+R6
+vi_fetch
+R0
+!i10b 1
+!s100 B9@Q7VzFQeRoF4e6VmZ@]2
+I0hzI34zCd50eYeIPie;]f1
+R1
+R2
+w1657813196
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_fetch.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_fetch.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_fetch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_fetch.v|
+!i113 1
+R5
+R6
+vi_fetch_sc
+R0
+!i10b 1
+!s100 OnQeg8VL87foMJNOzmie=3
+IgUN`cdhOo=53[CE>8:b1m0
+R1
+R2
+w1657952872
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_fetch_sc.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_fetch_sc.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\22144\Desktop\FPGA_for_job\risc_V_proj\rtl\defines.v|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_fetch_sc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/i_fetch_sc.v|
+!i113 1
+R5
+R6
+vMEMORY
+R0
+!i10b 1
+!s100 imgKk3:[A]VYiC59XCB6R3
+IUC?4GUEBbBV=fS>GTbX;92
+R1
+R2
+w1773715205
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/MEMORY.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/MEMORY.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\22144\Desktop\FPGA_for_job\risc_V_proj\rtl\defines.v|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/MEMORY.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/MEMORY.v|
+!i113 1
+R5
+R6
+n@m@e@m@o@r@y
+vpc_reg
+R0
+!i10b 1
+!s100 lJ<0CO`6gE_Ignj_^=[9^2
+IAh55M`P;31C>ZZS:E4nVX2
+R1
+R2
+w1656864098
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/pc_reg.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/pc_reg.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/pc_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/pc_reg.v|
+!i113 1
+R5
+R6
+vRegFile
+R0
+!i10b 1
+!s100 [WjI12A>l:7;1CfBfb1HC1
+I<Fa7JRMLNn_f;f3@IJZXm2
+R1
+R2
+w1771774055
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/RegFile.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/RegFile.v
+L0 10
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/RegFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/RegFile.v|
+!i113 1
+R5
+R6
+n@reg@file
+vriscV
+R0
+!i10b 1
+!s100 zIeMX;DLO?gBbPK45^[@43
+I_>BQ=MHM^Ghl1j^97g7I53
+R1
+R2
+w1773711304
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/riscV.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/riscV.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\22144\Desktop\FPGA_for_job\risc_V_proj\rtl\defines.v|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/riscV.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/riscV.v|
+!i113 1
+R5
+R6
+nrisc@v
+vriscV_SOC
+R0
+!i10b 1
+!s100 HW<7V@<eDDGSgK@[D;8R:1
+I5QJQf@GgfXl=PK30M[N?i0
+R1
+R2
+w1773711197
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/riscv_SOC.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/riscv_SOC.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\22144\Desktop\FPGA_for_job\risc_V_proj\rtl\defines.v|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/riscv_SOC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/riscv_SOC.v|
+!i113 1
+R5
+R6
+nrisc@v_@s@o@c
+vROM
+!s110 1773720027
+!i10b 1
+!s100 PRK:?:akOB<6o82I[IA9[1
+IAhJjA2SbJYZzVg;LTP]a^2
+R1
+R2
+w1773678697
+8C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/ROM.v
+FC:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/ROM.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/ROM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/FPGA_for_job/risc_V_proj/rtl/ROM.v|
+!i113 1
+R5
+R6
+n@r@o@m
+vtb
+R0
+!i10b 1
+!s100 A=JaSEPL08S98njKkO9411
+I;>eaza_Vz9Gc;H>FWo64P3
+R1
+R2
+w1773712202
+8C:/Users/22144/Desktop/20260316temp/sim/tb.v
+FC:/Users/22144/Desktop/20260316temp/sim/tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/22144/Desktop/20260316temp/sim/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/22144/Desktop/20260316temp/sim/tb.v|
+!i113 1
+R5
+R6
